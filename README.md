@@ -22,15 +22,21 @@ identifying which pumps needed repair before they broke was critical.
 #### Sample Data Visualizations
 
 #### Payment Types vs Functionality
+
 ![png](Data Exploration README\output_99_1.png)
+
 ![png](Data Exploration README\output_98_1.png)
 
 #### Paid or Free Pump Management vs Functionality
+
 ![png](Data Exploration README\output_83_0.png)
 
 #### Confusion Matrix &  Classification Report
+
 ![png](Data Exploration README\output_18_1.png)
+
 ![png](Data Exploration README\output_29_0.png)
 
 #### Decision Tree Model
+
 ![png](Data Exploration README\Decision Tree.png)
