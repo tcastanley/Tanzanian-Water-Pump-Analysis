@@ -37,6 +37,4 @@ identifying which pumps needed repair before they broke was critical.
 
 ![png](README_files\output_29_0.png)
 
-#### Decision Tree Model
 
-![png](README_files\Decision_Tree.png)
