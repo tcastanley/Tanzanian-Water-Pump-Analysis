@@ -23,20 +23,20 @@ identifying which pumps needed repair before they broke was critical.
 
 #### Payment Types vs Functionality
 
-![png](README_files\output_99_1.png)
+![png](Image_files\output_99_1.png)
 
-![png](README_files\output_98_1.png)
+![png](Image_files\output_98_1.png)
 
 #### Paid or Free Pump Management vs Functionality
 
-![png](README_files\output_83_0.png)
+![png](Image_files\output_83_0.png)
 
 #### Confusion Matrix &  Classification Report
 
-![png](README_files\output_18_1.png)
+![png](Image_files\output_18_1.png)
 
-![png](README_files\output_29_0.png)
+![png](Image_files\output_29_0.png)
 
 #### Decision Tree Model
 
-![png](README_files\Decision_Tree.png)
+![png](Image_files\Decision_Tree.png)
