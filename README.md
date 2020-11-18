@@ -15,9 +15,8 @@ a dummy feature for each category in a partiular feature. Some of the continuous
 binary categorical ones as well, while others were able to benefit from some interpolation engineering.
 
 #### Summary
-The final model developed achieved an accuracy score of 76%.  There proved much difficulty in seperating Functional - Needs
-Repair from Functional as one could imagine.  And for the purposes of the business case associated with this project,
-identifying which pumps needed repair before they broke was critical.
+The final model developed achieved an accuracy score of 79%.  There proved much difficulty in seperating Functional - Needs
+Repair from Functional as one could imagine.
 
 #### Sample Data Visualizations
 
